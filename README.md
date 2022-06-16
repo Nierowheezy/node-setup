@@ -1,4 +1,4 @@
-# node-setup
+# node-environment-setup
 
 ## Task Title: Introduction to NodeJS: Setting up environment Rendering to browser File system
 
